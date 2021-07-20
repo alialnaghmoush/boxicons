@@ -13,7 +13,9 @@ class RootApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Boxicons Plugin'),
         ),
-        body: Center(child: Icon(Boxicons.bx_home_smile)),
+        body: Center(
+          child: Icon(Boxicons.bx_home_smile),
+        ),
       ),
     );
   }
