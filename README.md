@@ -15,6 +15,10 @@ boxicons: <latest_version>
 You can use it very easily. For example:
 
 ```dart
+Icon(Boxicons.bx_home_smile)
+```
+
+```dart
 import 'package:flutter/material.dart';
 import 'package:boxicons/boxicons.dart';
 
