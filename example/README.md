@@ -1,16 +1,41 @@
-# boxicons_example
+# Boxicons For Flutter
 
-Demonstrates how to use the boxicons plugin.
+Easy to use 1525 Icon from [Boxicons](https://boxicons.com).
 
-## Getting Started
+## Instalation
 
-This project is a starting point for a Flutter application.
+In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
-A few resources to get you started if this is your first Flutter project:
+```yaml
+boxicons: <latest_version>
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Usage
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can use it very easily. For example:
+
+```dart
+import 'package:flutter/material.dart';
+import 'package:boxicons/boxicons.dart';
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return IconButton(
+        // Use Boxicons
+        icon: Icon(Boxicons.bx_home_smile),
+        onPressed: () {
+            print('its done');
+        }
+    );
+  }
+}
+```
+
+## Info
+
+Boxicons version: 2.0.8
+
+## License
+
+MIT
