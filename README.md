@@ -1,6 +1,6 @@
 # Boxicons For Flutter
 
-Easy to use 1525 Icon from [Boxicons](https://boxicons.com).
+Easy to use 1500+ Icon from [Boxicons](https://boxicons.com).
 
 ## Instalation
 
@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
 
 ## Info
 
-Boxicons version: 2.0.8
+Boxicons version: 2.0.9
 
 ## License
 
