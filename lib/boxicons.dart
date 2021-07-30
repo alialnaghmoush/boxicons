@@ -19,7 +19,7 @@ class Boxicons {
   Boxicons._();
 
   static const _kFontFam = 'Boxicons';
-  static const _kFontPkg = 'boxicons';
+  static const String _kFontPkg = 'boxicons';
 
   static const IconData bx_abacus =
       IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
@@ -1025,9 +1025,9 @@ class Boxicons {
       IconData(0xe9f4, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bx_mobile =
       IconData(0xe9f5, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData bx_money =
-      IconData(0xe9f6, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bx_moon =
+      IconData(0xe9f6, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData bx_money =
       IconData(0xe9f7, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bx_mouse_alt =
       IconData(0xe9f8, fontFamily: _kFontFam, fontPackage: _kFontPkg);
@@ -1565,9 +1565,9 @@ class Boxicons {
       IconData(0xeb02, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxs_archive_out =
       IconData(0xeb03, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData bxs_area =
-      IconData(0xeb04, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxs_archive =
+      IconData(0xeb04, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData bxs_area =
       IconData(0xeb05, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxs_arrow_from_bottom =
       IconData(0xeb06, fontFamily: _kFontFam, fontPackage: _kFontPkg);
@@ -2569,13 +2569,13 @@ class Boxicons {
       IconData(0xecf8, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxs_search =
       IconData(0xecf9, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData bxs_send =
-      IconData(0xecfa, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData bxs_server =
-      IconData(0xecfb, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData bxs_shapes =
-      IconData(0xecfc, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxs_select_multiple =
+      IconData(0xecfa, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData bxs_send =
+      IconData(0xecfb, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData bxs_server =
+      IconData(0xecfc, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData bxs_shapes =
       IconData(0xecfd, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxs_share_alt =
       IconData(0xecfe, fontFamily: _kFontFam, fontPackage: _kFontPkg);
@@ -2821,9 +2821,9 @@ class Boxicons {
       IconData(0xed76, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxl_bitcoin =
       IconData(0xed77, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData bxl_blogger =
-      IconData(0xed78, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxl_blender =
+      IconData(0xed78, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData bxl_blogger =
       IconData(0xed79, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxl_bootstrap =
       IconData(0xed7a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
@@ -2883,9 +2883,9 @@ class Boxicons {
       IconData(0xed95, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxl_flickr_square =
       IconData(0xed96, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData bxl_flutter =
-      IconData(0xed97, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxl_flickr =
+      IconData(0xed97, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData bxl_flutter =
       IconData(0xed98, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bxl_foursquare =
       IconData(0xed99, fontFamily: _kFontFam, fontPackage: _kFontPkg);

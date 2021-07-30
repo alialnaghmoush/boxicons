@@ -38,7 +38,8 @@ class MyApp extends StatelessWidget {
 
 ## Info
 
-Boxicons version: 2.0.9
+_Announcing Boxicons v2.0.9!_
+- Fixed the errors with a few svgs, added viewbox
 
 ## License
 
